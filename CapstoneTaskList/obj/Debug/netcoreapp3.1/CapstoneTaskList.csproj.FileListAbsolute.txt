@@ -1,0 +1,13 @@
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp3.1\CapstoneTaskList.exe
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp3.1\CapstoneTaskList.deps.json
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp3.1\CapstoneTaskList.runtimeconfig.json
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp3.1\CapstoneTaskList.runtimeconfig.dev.json
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp3.1\CapstoneTaskList.dll
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp3.1\CapstoneTaskList.pdb
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.AssemblyInfo.cs
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.dll
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.pdb
+C:\Users\Chris\Documents\GC bootcamp\week2\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp3.1\CapstoneTaskList.genruntimeconfig.cache
